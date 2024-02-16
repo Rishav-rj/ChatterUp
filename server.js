@@ -1,5 +1,5 @@
 import app from "./index.js"
-import connectMongoDB from "./config/mongodb.js";
+import connectMongoDB from "./config/mongoDB.js";
 import { server } from "./Utils/socket.utils.js";
 
 const port = 8800
